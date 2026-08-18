@@ -1,10 +1,9 @@
 # 📚 AI Concepts & Theory — Episode Map
 
-**The concepts/theory track of the AI Engineering Roadmap 2026.** Every episode below is a standalone deep-dive repo. Read them in order for the full path, or jump to the layer you need.
+**The concepts/theory track of the AI Engineering Roadmap 2026.** Every episode below is a standalone deep-dive repo. Read them in order for the full path or jump to the layer you need.
 
 Each episode pairs with its counterpart in the **[Interview Prep track](../Interview_Prep/README.md)** — read them together.
 
-> **Link legend:** ✅ = confirmed repo URL · ⏳ = content built, repo link to be added (`[fill in repo URL]`). No link below is fabricated; placeholders are labeled.
 
 ---
 
@@ -23,10 +22,10 @@ Each episode pairs with its counterpart in the **[Interview Prep track](../Inter
 
 | Ep | Title | What it teaches | Repo |
 |----|-------|-----------------|------|
-| **5** | Retrieval-Augmented Generation (RAG) | Retrieval as a first-class capability — chunking, embeddings, hybrid search, reranking, grounding | ⏳ `[fill in repo URL]` |
-| **6** | AI Frameworks — LangChain, LlamaIndex, CrewAI, LangGraph | What each framework is for, when to use which, and when to use none | ⏳ `[fill in repo URL]` |
-| **7** | Memory & State in AI Systems | How AI systems remember — session, short-term, long-term — and why memory breaks interviews | ⏳ `[fill in repo URL]` |
-| **8** | AI Evaluation, Validation & Governance | How you know your AI works — eval discipline, validation, and governance | ⏳ `[fill in repo URL]` |
+| **5** | Retrieval-Augmented Generation (RAG) | Retrieval as a first-class capability — chunking, embeddings, hybrid search, reranking, grounding | ✅ [Episode_5_Mastering_RAG_and_Augmented_Generation](https://github.com/JoshithReddyAleti/Episode_5_Mastering_RAG_and_Augmented_Generation/tree/main/Episode_5_Mastering_RAG_and_Augmented_Generation) |
+| **6** | AI Frameworks — LangChain, LlamaIndex, CrewAI, LangGraph | What each framework is for, when to use which, and when to use none | ✅ [Episode_6_AI_Frameworks_and_Fine_Tuning_Complete_Guide](https://github.com/JoshithReddyAleti/Episode_6_AI_Frameworks_and_Fine_Tuning_Complete_Guide) |
+| **7** | Memory & State in AI Systems | How AI systems remember — session, short-term, long-term — and why memory breaks interviews | ✅ [Episode_7_Memory_and_State_in_AI_Systems](https://github.com/JoshithReddyAleti/Episode_7_Memory_and_State_in_AI_Systems/tree/main/Episode_7_Memory_and_State_in_AI_Systems) |
+| **8** | AI Evaluation, Validation & Governance | How you know your AI works — eval discipline, validation, and governance | ✅ [Episode_8_AI_Evaluation_Validation_and_Governance](https://github.com/JoshithReddyAleti/Episode_8_AI_Evaluation_Validation_and_Governance) |
 
 ---
 
@@ -34,10 +33,10 @@ Each episode pairs with its counterpart in the **[Interview Prep track](../Inter
 
 | Ep | Title | What it teaches | Repo |
 |----|-------|-----------------|------|
-| **9** | Agents — When AI Systems Make Decisions | The first look at agency — when AI stops answering and starts deciding | ⏳ `[fill in repo URL]` |
-| **10** | Deployment — Taking AI Systems to Production | Getting AI out of the notebook and into production reliably | ⏳ `[fill in repo URL]` |
-| **11** | Observability — Knowing What Your AI Is Doing | Traces, metrics, and logs — seeing inside a running AI system | ⏳ `[fill in repo URL]` |
-| **12** | Inference & Model Serving — The Systems Under the Model | The serving layer — how models actually run at scale and cost | ⏳ `[fill in repo URL]` |
+| **9** | Agents — When AI Systems Make Decisions | The first look at agency — when AI stops answering and starts deciding | ✅ [Episode_9_Agents_When_AI_Systems_Make_Decisions](https://github.com/JoshithReddyAleti/Episode_9_Agents_When_AI_Systems_Make_Decisions) |
+| **10** | Deployment — Taking AI Systems to Production | Getting AI out of the notebook and into production reliably | ⏳ [Episode_10_Deployment_Taking_AI_Systems_to_Production](https://github.com/JoshithReddyAleti/Episode_10_Deployment_Taking_AI_Systems_to_Production-) |
+| **11** | Observability — Knowing What Your AI Is Doing | Traces, metrics, and logs — seeing inside a running AI system | ⏳ [Episode_11_Observability_Knowing_What_Your_AI_is_Doing](https://github.com/JoshithReddyAleti/Episode_11_Observability_Knowing_What_Your_AI_is_Doing) |
+| **12** | Inference & Model Serving — The Systems Under the Model | The serving layer — how models actually run at scale and cost | ⏳ [Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model](https://github.com/JoshithReddyAleti/Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model) |
 
 ---
 
@@ -45,9 +44,9 @@ Each episode pairs with its counterpart in the **[Interview Prep track](../Inter
 
 | Ep | Title | What it teaches | Repo |
 |----|-------|-----------------|------|
-| **13** | Fine-Tuning & Multimodal — The Training Layer | When and how to fine-tune, plus multimodal — the training layer | ⏳ `[fill in repo URL]` |
-| **14** | The Discipline Layer — What Separates Shippers from Demoers | The engineering discipline that turns demos into shipped systems | ⏳ `[fill in repo URL]` |
-| **15** | The Missing Layer | The four gaps between prototype and enterprise production: application architecture, cost engineering, reasoning & test-time compute, enterprise integration & compliance (4 folders, 12 demos) | ⏳ `[fill in repo URL]` |
+| **13** | Fine-Tuning & Multimodal — The Training Layer | When and how to fine-tune, plus multimodal — the training layer | ⏳ [Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer](https://github.com/JoshithReddyAleti/Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer) |
+| **14** | The Discipline Layer — What Separates Shippers from Demoers | The engineering discipline that turns demos into shipped systems | ⏳ [Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers](https://github.com/JoshithReddyAleti/Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers) |
+| **15** | The Missing Layer | The four gaps between prototype and enterprise production: application architecture, cost engineering, reasoning & test-time compute, enterprise integration & compliance (4 folders, 12 demos) | ⏳ [Episode_15_The_Missing_Layer](https://github.com/JoshithReddyAleti/Episode_15_The_Missing_Layer) |
 
 ---
 
