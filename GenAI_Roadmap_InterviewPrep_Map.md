@@ -10,7 +10,6 @@ Unlike the theory track (one repo per episode), the interview prep lives in a **
 
 Every week below is a folder inside that repo. Each week's prep follows the same structure: a README, Deep Conceptual questions (with flagship long-form answers), Technical Coding (with full runnable implementations), System Design, Behavioral Scenarios, and Terminology Differentiation.
 
-> **Link legend:** ✅ = confirmed/published · ⏳ = built or queued, folder link to be added. Week ↔ Episode is a direct 1:1 mapping.
 
 ---
 
