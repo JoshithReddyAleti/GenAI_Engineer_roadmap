@@ -54,7 +54,7 @@ Each episode pairs with its counterpart in the **[Interview Prep track](../Inter
 
 | Ep | Title | What it teaches | Repo |
 |----|-------|-----------------|------|
-| **16** | The Security Layer *(bonus)* | Making AI defensible: risk tiering, threat modeling (STRIDE/MAESTRO/ATLAS), guardrails & thresholds, policy-as-code, governance, and agentic security — the bridge to 2027 | ⏳ `[fill in repo URL]` |
+| **16** | The Security Layer *(bonus)* | Making AI defensible: risk tiering, threat modeling (STRIDE/MAESTRO/ATLAS), guardrails & thresholds, policy-as-code, governance, and agentic security — the bridge to 2027 | ⏳ [Episode_16_The_Security_Layer](https://github.com/JoshithReddyAleti/Episode_16_The_Security_Layer) |
 
 ---
 
