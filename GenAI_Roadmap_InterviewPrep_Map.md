@@ -32,7 +32,7 @@ Every week below is a folder inside that repo. Each week's prep follows the same
 | **13** | Ep 13 — Fine-Tuning & Multimodal | When to fine-tune, catastrophic forgetting, reproducibility, multimodal | ⏳ Queued |
 | **14** | Ep 14 — The Discipline Layer | The engineering-discipline questions that separate shippers from demoers | ⏳ Queued |
 | **15** | Ep 15 — The Missing Layer | Application architecture, cost engineering, reasoning/test-time compute, enterprise integration & compliance | ⏳ Queued |
-| **16** | Ep 16 — The Security Layer *(bonus)* | Risk tiering, threat modeling, guardrails & thresholds, policy-as-code, governance, agentic security | ✅ Built (capstone) |
+| **16** | Ep 16 — The Security Layer *(bonus)* | Risk tiering, threat modeling, guardrails & thresholds, policy-as-code, governance, agentic security | ⏳ Queued (capstone) |
 
 ---
 
