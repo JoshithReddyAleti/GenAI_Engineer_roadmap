@@ -22,11 +22,11 @@ Every week below is a folder inside that repo. Each week's prep follows the same
 | **2** | Ep 2 — Python for AI | The Python competence interviewers actually probe | ✅ Published |
 | **3** | Ep 3 — Building an AI Project | Project structure and design-thinking questions | ✅ Published |
 | **4** | Ep 4 — End-to-End AI Project | Memory, tests, shipping — the "have you actually shipped" questions | ✅ Published |
-| **5** | Ep 5 — RAG | Retrieval questions: chunking, hybrid search (BM25 + vector), reranking, grounding | ⏳ Queued |
-| **6** | Ep 6 — AI Frameworks | LangChain / LlamaIndex / CrewAI / LangGraph — when to use which, and when none | ⏳ Queued |
-| **7** | Ep 7 — Memory & State | The memory questions that end interviews in seven seconds | ⏳ Queued |
-| **8** | Ep 8 — Evaluation, Validation & Governance | How you prove your AI works — eval and governance questions | ⏳ Queued |
-| **9** | Ep 9 — Agents | Decision-making systems — the first agentic questions | ⏳ Queued |
+| **5** | Ep 5 — RAG | Retrieval questions: chunking, hybrid search (BM25 + vector), reranking, grounding | ✅ Published |
+| **6** | Ep 6 — AI Frameworks | LangChain / LlamaIndex / CrewAI / LangGraph — when to use which, and when none | ✅ Published |
+| **7** | Ep 7 — Memory & State | The memory questions that end interviews in seven seconds | ✅ Published |
+| **8** | Ep 8 — Evaluation, Validation & Governance | How you prove your AI works — eval and governance questions | ✅ Published |
+| **9** | Ep 9 — Agents | Decision-making systems — the first agentic questions | ✅ Published |
 | **10** | Ep 10 — Deployment | Production-readiness and deployment questions | ⏳ Queued |
 | **11** | Ep 11 — Observability | Trace/metric/debugging questions for running systems | ⏳ Queued |
 | **12** | Ep 12 — Inference & Model Serving | The five cost levers, serving architecture, latency questions | ⏳ Queued |
