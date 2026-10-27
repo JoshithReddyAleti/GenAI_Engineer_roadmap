@@ -10,7 +10,6 @@ Unlike the theory track (one repo per episode), the interview prep lives in a **
 
 Every week below is a folder inside that repo. Each week's prep follows the same structure: a README, Deep Conceptual questions (with flagship long-form answers), Technical Coding (with full runnable implementations), System Design, Behavioral Scenarios, and Terminology Differentiation.
 
-
 ---
 
 ## The Week ↔ Episode Map
@@ -26,13 +25,13 @@ Every week below is a folder inside that repo. Each week's prep follows the same
 | **7** | Ep 7 — Memory & State | The memory questions that end interviews in seven seconds | ✅ Published |
 | **8** | Ep 8 — Evaluation, Validation & Governance | How you prove your AI works — eval and governance questions | ✅ Published |
 | **9** | Ep 9 — Agents | Decision-making systems — the first agentic questions | ✅ Published |
-| **10** | Ep 10 — Deployment | Production-readiness and deployment questions | ⏳ Queued |
-| **11** | Ep 11 — Observability | Trace/metric/debugging questions for running systems | ⏳ Queued |
-| **12** | Ep 12 — Inference & Model Serving | The five cost levers, serving architecture, latency questions | ⏳ Queued |
-| **13** | Ep 13 — Fine-Tuning & Multimodal | When to fine-tune, catastrophic forgetting, reproducibility, multimodal | ⏳ Queued |
-| **14** | Ep 14 — The Discipline Layer | The engineering-discipline questions that separate shippers from demoers | ⏳ Queued |
-| **15** | Ep 15 — The Missing Layer | Application architecture, cost engineering, reasoning/test-time compute, enterprise integration & compliance | ⏳ Queued |
-| **16** | Ep 16 — The Security Layer *(bonus)* | Risk tiering, threat modeling, guardrails & thresholds, policy-as-code, governance, agentic security | ⏳ Queued (capstone) |
+| **10** | Ep 10 — Deployment | Production-readiness and deployment questions | ✅ Published |
+| **11** | Ep 11 — Observability | Trace/metric/debugging questions for running systems | ✅ Published |
+| **12** | Ep 12 — Inference & Model Serving | The five cost levers, serving architecture, latency questions | ✅ Published |
+| **13** | Ep 13 — Fine-Tuning & Multimodal | When to fine-tune, catastrophic forgetting, reproducibility, multimodal | ✅ Published |
+| **14** | Ep 14 — The Discipline Layer | The engineering-discipline questions that separate shippers from demoers | ✅ Published |
+| **15** | Ep 15 — The Missing Layer | Application architecture, cost engineering, reasoning/test-time compute, enterprise integration & compliance | ✅ Published |
+| **16** | Ep 16 — The Security Layer *(bonus / capstone)* | Risk tiering, threat modeling (STRIDE / MAESTRO / ATLAS), guardrails & thresholds, policy-as-code, governance, agentic security | ✅ Published |
 
 ---
 
@@ -57,6 +56,14 @@ The intended loop for each episode:
 3. **Move to the next episode** only when the self-check passes.
 
 Theory without prep leaves you able to build but not to explain. Prep without theory leaves you able to recite but not to reason. Together they're the full path from learner to hired.
+
+---
+
+## ➡️ After This Series
+
+The interview prep ends with Week 16 (The Security Layer capstone) and hands off to the **[Agentic AI Roadmap 2027](https://github.com/JoshithReddyAleti/Agentic_AI_roadmap)** interview prep — starting with Episode 2 (The Reasoning Engine) and running through Episodes 3 (The Control Loop), 4 (The Planning Engine), and 5 (The Tool Ecosystem) already published, with Episode 6 (Multi-Agent Systems) next.
+
+If Week 16 closes a round for you — the Agentic 2027 arc is the next climb.
 
 ---
 
