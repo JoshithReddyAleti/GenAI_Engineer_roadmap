@@ -4,7 +4,6 @@
 
 Each episode pairs with its counterpart in the **[Interview Prep track](../Interview_Prep/README.md)** — read them together.
 
-
 ---
 
 ## Part I — Foundations
@@ -34,9 +33,9 @@ Each episode pairs with its counterpart in the **[Interview Prep track](../Inter
 | Ep | Title | What it teaches | Repo |
 |----|-------|-----------------|------|
 | **9** | Agents — When AI Systems Make Decisions | The first look at agency — when AI stops answering and starts deciding | ✅ [Episode_9_Agents_When_AI_Systems_Make_Decisions](https://github.com/JoshithReddyAleti/Episode_9_Agents_When_AI_Systems_Make_Decisions) |
-| **10** | Deployment — Taking AI Systems to Production | Getting AI out of the notebook and into production reliably | ⏳ [Episode_10_Deployment_Taking_AI_Systems_to_Production](https://github.com/JoshithReddyAleti/Episode_10_Deployment_Taking_AI_Systems_to_Production-) |
-| **11** | Observability — Knowing What Your AI Is Doing | Traces, metrics, and logs — seeing inside a running AI system | ⏳ [Episode_11_Observability_Knowing_What_Your_AI_is_Doing](https://github.com/JoshithReddyAleti/Episode_11_Observability_Knowing_What_Your_AI_is_Doing) |
-| **12** | Inference & Model Serving — The Systems Under the Model | The serving layer — how models actually run at scale and cost | ⏳ [Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model](https://github.com/JoshithReddyAleti/Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model) |
+| **10** | Deployment — Taking AI Systems to Production | Getting AI out of the notebook and into production reliably | ✅ [Episode_10_Deployment_Taking_AI_Systems_to_Production](https://github.com/JoshithReddyAleti/Episode_10_Deployment_Taking_AI_Systems_to_Production-) |
+| **11** | Observability — Knowing What Your AI Is Doing | Traces, metrics, and logs — seeing inside a running AI system | ✅ [Episode_11_Observability_Knowing_What_Your_AI_is_Doing](https://github.com/JoshithReddyAleti/Episode_11_Observability_Knowing_What_Your_AI_is_Doing) |
+| **12** | Inference & Model Serving — The Systems Under the Model | The serving layer — how models actually run at scale and cost | ✅ [Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model](https://github.com/JoshithReddyAleti/Episode_12_Inference_and_Model_Serving_The_Systems_Under_the_Model) |
 
 ---
 
@@ -44,9 +43,9 @@ Each episode pairs with its counterpart in the **[Interview Prep track](../Inter
 
 | Ep | Title | What it teaches | Repo |
 |----|-------|-----------------|------|
-| **13** | Fine-Tuning & Multimodal — The Training Layer | When and how to fine-tune, plus multimodal — the training layer | ⏳ [Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer](https://github.com/JoshithReddyAleti/Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer) |
-| **14** | The Discipline Layer — What Separates Shippers from Demoers | The engineering discipline that turns demos into shipped systems | ⏳ [Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers](https://github.com/JoshithReddyAleti/Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers) |
-| **15** | The Missing Layer | The four gaps between prototype and enterprise production: application architecture, cost engineering, reasoning & test-time compute, enterprise integration & compliance (4 folders, 12 demos) | ⏳ [Episode_15_The_Missing_Layer](https://github.com/JoshithReddyAleti/Episode_15_The_Missing_Layer) |
+| **13** | Fine-Tuning & Multimodal — The Training Layer | When and how to fine-tune, plus multimodal — the training layer | ✅ [Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer](https://github.com/JoshithReddyAleti/Episode_13_Fine_Tuning_and_Multimodal_The_Training_Layer) |
+| **14** | The Discipline Layer — What Separates Shippers from Demoers | The engineering discipline that turns demos into shipped systems | ✅ [Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers](https://github.com/JoshithReddyAleti/Episode_14_The_Discipline_Layer_What_Separates_Shippers_from_Demoers) |
+| **15** | The Missing Layer | The four gaps between prototype and enterprise production: application architecture, cost engineering, reasoning & test-time compute, enterprise integration & compliance (4 folders, 12 demos) | ✅ [Episode_15_The_Missing_Layer](https://github.com/JoshithReddyAleti/Episode_15_The_Missing_Layer) |
 
 ---
 
@@ -54,13 +53,15 @@ Each episode pairs with its counterpart in the **[Interview Prep track](../Inter
 
 | Ep | Title | What it teaches | Repo |
 |----|-------|-----------------|------|
-| **16** | The Security Layer *(bonus)* | Making AI defensible: risk tiering, threat modeling (STRIDE/MAESTRO/ATLAS), guardrails & thresholds, policy-as-code, governance, and agentic security — the bridge to 2027 | ⏳ [Episode_16_The_Security_Layer](https://github.com/JoshithReddyAleti/Episode_16_The_Security_Layer) |
+| **16** | The Security Layer *(bonus / capstone)* | Making AI defensible: risk tiering, threat modeling (STRIDE / MAESTRO / ATLAS), guardrails & thresholds, policy-as-code, governance, and agentic security — the bridge to 2027 | ✅ [Episode_16_The_Security_Layer](https://github.com/JoshithReddyAleti/Episode_16_The_Security_Layer) |
 
 ---
 
 ## ➡️ After This Series
 
-The AI Engineering Roadmap 2026 ends with the security capstone and hands off to the **Agentic AI Roadmap 2027** — from building AI to architecting autonomous agents. *(Its own repo — link to be added.)*
+The AI Engineering Roadmap 2026 ends with the security capstone (Episode 16) and hands off to the **[Agentic AI Roadmap 2027](https://github.com/JoshithReddyAleti/Agentic_AI_roadmap)** — from building AI to architecting autonomous agents. The 2027 arc is live; Episodes 2–5 are published, with Episode 6 (Multi-Agent Systems) next.
+
+The handoff makes sense exactly here. Episode 16's agentic-security section is where 2026 stops being about building AI and starts being about defending it when it decides on its own. That's where 2027 picks up.
 
 ---
 
